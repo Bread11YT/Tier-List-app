@@ -6,7 +6,6 @@
 
 **Перетаскивай карточки по рядам S, A, B, C, D и раскладывай всё по местам.**
 
-[![Открыть в браузере](https://img.shields.io/badge/Открыть-в_браузере-3a49c8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bread11yt.github.io/Tier-List-app/)
 [![Скачать APK](https://img.shields.io/badge/Скачать-APK_для_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Bread11YT/Tier-List-app/releases)
 ![Лицензия MIT](https://img.shields.io/badge/лицензия-MIT-8f9cff?style=for-the-badge)
 
